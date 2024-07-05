@@ -29,5 +29,5 @@ This code implements a graph representation of a maze and utilizes Breadth-First
 
 ## Contributors
 
-* Arman Akhoundy
-* Setareh Hashempour
+* Arman Akhoundy (@ArmanX5)
+* Setareh Hashempour (@setarehashempour)
